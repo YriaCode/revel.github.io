@@ -1,0 +1,374 @@
+
+.entête
+{
+    display: flex;
+}
+.entête
+{
+    justify-content: space-between;
+    margin-top: 2%;
+}
+.fond
+{
+    align-items: center;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    width: 95%;
+}
+
+.logo1
+{
+    width: 80px;
+    margin-left: 5%;
+
+}
+.lien1
+{
+    margin-left: 30%;
+}
+.lien4
+{
+    margin-right: 10%
+}
+body
+{
+    background-image: url(Qu-est-ce-que-le-developpement-personnel.jpg);
+    background-repeat: no-repeat;
+}
+
+.logo2
+{
+    margin-left: 25%;
+    margin-top: 10%;
+    width: 600px;
+}
+.astre
+{
+display:flex;
+flex-direction: column;
+justify-content: space-around;
+margin-top: 10%;
+}
+.ban
+{
+    display:flex;
+    align-content: flex-end;
+    justify-content: space-between;
+}
+
+.img1
+{
+    width: 50px;
+}
+
+.img2
+{
+    width: 50px;
+}
+
+.img3
+{
+    width: 50px;
+}
+
+.img4
+{
+    width: 50px;
+}
+.img5
+{
+    width: 200px;
+}
+.img6
+{
+    width: 200px;
+}
+.img7
+{
+    width: 200px;
+}
+.allcat
+{
+   background-color: blueviolet;
+}
+.categories
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+}
+.cat
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+.a
+{
+    width:80px;
+    padding:10px;
+    margin-left: 24%;
+    text-align: center;
+}
+.b
+{
+    width:150px;
+    padding:10px;
+  
+    text-align: center;
+}
+.c
+{
+    width:80px;
+    padding:10px;
+    margin-right: 25%;
+    text-align: center;
+}
+.texte
+{
+    display:flex;
+    flex-direction: row;
+    margin-left: 18%;
+    margin-top: -3%;
+
+}
+.texta
+{
+    width:220px;
+    padding:10px;
+    margin-right: 5%;
+    text-align: justify;
+}
+.textb
+{
+    width:220px;
+    padding:10px;
+    margin-right: 5%;
+    text-align: justify;
+}
+.textc
+{
+    width:220px;
+    padding:10px;
+    margin-right: 5%;
+    text-align: justify;
+}
+.bouton1
+{
+    padding: 10px 30px; 
+    background: white; 
+    color:black; 
+    margin-left: 22%;
+}
+.bouton2
+{
+    padding: 10px 30px; 
+    background: white; 
+    color:black; 
+}
+.bouton3
+{
+    padding: 10px 30px; 
+    background: white; 
+    color:black; 
+    margin-right: 21%;
+}
+.bouton
+{
+    display: flex;
+    justify-content: space-between;
+}
+.part
+{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.texte1
+{
+    width: 700px;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.team1
+{
+    margin-right: 3%;
+    margin-top: 2%;
+}
+.part2
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+}
+.map1
+{
+    width: 40%;
+    margin-left: 55%;
+    margin-top: 6%;
+}
+.bloc
+{
+    display: flex;  
+}
+.bloc2
+{
+    display: flex;
+}
+.bloc3
+{
+    display: flex;
+}
+.texti
+{
+    margin-top: 14%;
+    margin-left: 20%;
+}
+.texti2
+{
+    margin-top: 14%;
+    margin-left: 14%;
+}
+.texti3
+{
+    margin-top: 14%;
+    margin-left: 14%;
+}
+.texte1{
+    margin-left:-7%;
+}
+.texte2
+{
+    margin-left: 4%;
+}
+.gémeaux
+{
+    width: 95%;
+    margin-left: 3%;
+}
+.gémeaux1
+{
+    width: 150px;
+}
+.cancer
+{
+    width: 95%;
+    margin-left: 3%;
+}
+.cancer1
+{
+    width: 150px;
+}
+.balance
+{
+    width: 95%;
+    margin-left: 3%;
+}
+.balance1
+{
+    width: 150px;
+}
+.scorpion
+{
+    width: 95%;
+    margin-left: 3%;
+}
+.scorpion1
+{
+    width: 150px;
+}
+.question1
+{
+    display: flex;
+    flex-direction: column;
+}
+.question
+{
+    width: 600px;
+    text-align: center;
+    margin-left: 22%;
+    margin-top: 50px;
+    margin-bottom: 5%;
+}
+.social
+{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 30%;
+    margin-top: 1%;
+}
+.soc 
+{
+    border: 1px solid black;
+    background-color: blueviolet;
+}
+a.send
+{
+    display:block;
+    color:#555555;
+    font-weight:bold;
+    height:30px;
+    line-height:29px;
+    text-decoration:none;
+    width:191px;
+    margin-left: 500px;
+    
+}
+a:hover.send
+{
+		color:#0066CC;
+}
+#scrollUp
+{
+position: fixed;
+bottom : 10px;
+right: 70px;
+opacity: 0.5;
+width: 5%;
+}
+.face
+{
+    width: 55px;
+}
+.twit
+{
+    width: 42px;
+}
+.in 
+{
+    width: 50px;
+}
+.confiance
+{
+    width: 95%;
+    margin-left: 3%;
+}
+.confiance1
+{
+    width: 150px;
+}
+.objectif
+{
+    width: 95%;
+    margin-left: 3%
+}
+.objectif1
+{
+    width: 300px;
+}
+.coaching
+{
+    width: 95%;
+    margin-left: 3%
+}
+.coaching1
+{
+    width: 300px;
+}
+
+
+
+
